@@ -58,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aryan-balodi/leet-code/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/aryan-balodi/leet-code/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/aryan-balodi/leet-code/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/aryan-balodi/leet-code/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
