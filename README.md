@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aryan-balodi/leet-code/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/aryan-balodi/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/aryan-balodi/leet-code/tree/master/0412-fizz-buzz) |
+| [0812-rotate-string](https://github.com/aryan-balodi/leet-code/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/aryan-balodi/leet-code/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
 |  |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aryan-balodi/leet-code/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/aryan-balodi/leet-code/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
