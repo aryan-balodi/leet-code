@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aryan-balodi/leet-code/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/aryan-balodi/leet-code/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aryan-balodi/leet-code/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/aryan-balodi/leet-code/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/aryan-balodi/leet-code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aryan-balodi/leet-code/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/aryan-balodi/leet-code/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/aryan-balodi/leet-code/tree/master/0443-string-compression) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/aryan-balodi/leet-code/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/aryan-balodi/leet-code/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
