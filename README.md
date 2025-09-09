@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aryan-balodi/leet-code/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/aryan-balodi/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/aryan-balodi/leet-code/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/aryan-balodi/leet-code/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/aryan-balodi/leet-code/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aryan-balodi/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/aryan-balodi/leet-code/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/aryan-balodi/leet-code/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/aryan-balodi/leet-code/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/aryan-balodi/leet-code/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/aryan-balodi/leet-code/tree/master/0812-rotate-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aryan-balodi/leet-code/tree/master/2021-remove-all-occurrences-of-a-substring) |
