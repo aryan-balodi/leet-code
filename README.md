@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/aryan-balodi/leet-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/aryan-balodi/leet-code/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aryan-balodi/leet-code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1137-height-checker](https://github.com/aryan-balodi/leet-code/tree/master/1137-height-checker) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aryan-balodi/leet-code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aryan-balodi/leet-code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/aryan-balodi/leet-code/tree/master/1646-kth-missing-positive-number) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aryan-balodi/leet-code/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/aryan-balodi/leet-code/tree/master/0242-valid-anagram) |
+| [1137-height-checker](https://github.com/aryan-balodi/leet-code/tree/master/1137-height-checker) |
 ## Math
 |  |
 | ------- |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/aryan-balodi/leet-code/tree/master/0206-reverse-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/aryan-balodi/leet-code/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
