@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/aryan-balodi/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/aryan-balodi/leet-code/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/aryan-balodi/leet-code/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/aryan-balodi/leet-code/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/aryan-balodi/leet-code/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/aryan-balodi/leet-code/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/aryan-balodi/leet-code/tree/master/0567-permutation-in-string) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/aryan-balodi/leet-code/tree/master/0234-palindrome-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aryan-balodi/leet-code/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Hash Table
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/aryan-balodi/leet-code/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/aryan-balodi/leet-code/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aryan-balodi/leet-code/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/aryan-balodi/leet-code/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aryan-balodi/leet-code/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/aryan-balodi/leet-code/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/aryan-balodi/leet-code/tree/master/0234-palindrome-linked-list) |
 ## Counting Sort
 |  |
 | ------- |
