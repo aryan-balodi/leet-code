@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/aryan-balodi/leet-code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/aryan-balodi/leet-code/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryan-balodi/leet-code/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/aryan-balodi/leet-code/tree/master/0611-valid-triangle-number) |
 | [0907-koko-eating-bananas](https://github.com/aryan-balodi/leet-code/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aryan-balodi/leet-code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/aryan-balodi/leet-code/tree/master/1137-height-checker) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/aryan-balodi/leet-code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/aryan-balodi/leet-code/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryan-balodi/leet-code/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/aryan-balodi/leet-code/tree/master/0611-valid-triangle-number) |
 | [0907-koko-eating-bananas](https://github.com/aryan-balodi/leet-code/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aryan-balodi/leet-code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aryan-balodi/leet-code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/aryan-balodi/leet-code/tree/master/0410-split-array-largest-sum) |
+| [0611-valid-triangle-number](https://github.com/aryan-balodi/leet-code/tree/master/0611-valid-triangle-number) |
 | [2032-largest-odd-number-in-string](https://github.com/aryan-balodi/leet-code/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/aryan-balodi/leet-code/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/aryan-balodi/leet-code/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/aryan-balodi/leet-code/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/aryan-balodi/leet-code/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/aryan-balodi/leet-code/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aryan-balodi/leet-code/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aryan-balodi/leet-code/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/aryan-balodi/leet-code/tree/master/0242-valid-anagram) |
+| [0611-valid-triangle-number](https://github.com/aryan-balodi/leet-code/tree/master/0611-valid-triangle-number) |
 | [1137-height-checker](https://github.com/aryan-balodi/leet-code/tree/master/1137-height-checker) |
 ## Math
 |  |
