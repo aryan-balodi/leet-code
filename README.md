@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryan-balodi/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/aryan-balodi/leet-code/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryan-balodi/leet-code/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
@@ -188,5 +189,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/aryan-balodi/leet-code/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/aryan-balodi/leet-code/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
