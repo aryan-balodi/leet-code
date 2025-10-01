@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aryan-balodi/leet-code/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryan-balodi/leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aryan-balodi/leet-code/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/aryan-balodi/leet-code/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryan-balodi/leet-code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/aryan-balodi/leet-code/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryan-balodi/leet-code/tree/master/0540-single-element-in-a-sorted-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aryan-balodi/leet-code/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/aryan-balodi/leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aryan-balodi/leet-code/tree/master/0242-valid-anagram) |
 | [0611-valid-triangle-number](https://github.com/aryan-balodi/leet-code/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/aryan-balodi/leet-code/tree/master/1018-largest-perimeter-triangle) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/aryan-balodi/leet-code/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/aryan-balodi/leet-code/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/aryan-balodi/leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aryan-balodi/leet-code/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/aryan-balodi/leet-code/tree/master/0567-permutation-in-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aryan-balodi/leet-code/tree/master/1890-sum-of-beauty-of-all-substrings) |
