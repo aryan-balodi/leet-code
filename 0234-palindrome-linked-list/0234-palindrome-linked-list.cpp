@@ -11,23 +11,30 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        vector<int> copy;
-        ListNode *temp = head;
-        int count = 0;
+        if (head == nullptr) return false;
+        if (head->next == nullptr) return true;
 
-        while (temp != nullptr) {
-            copy.push_back(temp->val);
+        vector<int> LL; int count;
+
+        ListNode *temp = head; ListNode *First = head;
+        while(temp != nullptr) {
+            count++;
+            LL.push_back(temp->val);
 
             temp = temp->next;
-            count++;
+        }
+        
+        int low = 0; int high = LL.size() - 1;
+
+        while (low <= high) {
+            if (LL[low] == LL[high]) {
+                low++;
+                high--;
+            }
+            else return false;
         }
 
-        int i = 0; int j = copy.size() - 1;
-        while(i <= j) {
-            if (copy[i] != copy[j]) return false;
-            i++;
-            j--;
-        }
         return true;
+
     }
 };
