@@ -9,22 +9,44 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        if (head == nullptr) return NULL;
-
-        if (head->next == nullptr) return NULL;
+        // Hashing - approach
         
-        unordered_map<ListNode *, int> mpp;
+        // if (head == nullptr) return NULL;
 
-        ListNode *temp = head;
+        // if (head->next == nullptr) return NULL;
+        
+        // unordered_map<ListNode *, int> mpp;
 
-        while (temp != nullptr) {
-            if (mpp.find(temp) != mpp.end()) {
-                return temp;
-            }
+        // ListNode *temp = head;
 
-            mpp[temp]++;
+        // while (temp != nullptr) {
+        //     if (mpp.find(temp) != mpp.end()) {
+        //         return temp;
+        //     }
+
+        //     mpp[temp] = 1;
             
-            temp = temp->next;
+        //     temp = temp->next;
+        // }
+        // return NULL;
+
+        // slow and fast pointers
+
+        ListNode *slow = head; ListNode *fast = head;
+
+        while (fast != nullptr && fast->next != nullptr) {
+            slow = slow->next;
+            fast = fast->next->next;
+
+            if (slow == fast) {
+                slow = head;
+
+                while (slow != fast) {
+                    slow = slow->next;
+                    fast = fast->next;
+                }
+                return slow;
+            }
         }
         return NULL;
     }
