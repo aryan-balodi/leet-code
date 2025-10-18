@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aryan-balodi/leet-code/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/aryan-balodi/leet-code/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/aryan-balodi/leet-code/tree/master/0119-pascals-triangle-ii) |
 | [0410-split-array-largest-sum](https://github.com/aryan-balodi/leet-code/tree/master/0410-split-array-largest-sum) |
 ## Greedy
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aryan-balodi/leet-code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/aryan-balodi/leet-code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aryan-balodi/leet-code/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/aryan-balodi/leet-code/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/aryan-balodi/leet-code/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/aryan-balodi/leet-code/tree/master/0412-fizz-buzz) |
 | [1018-largest-perimeter-triangle](https://github.com/aryan-balodi/leet-code/tree/master/1018-largest-perimeter-triangle) |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aryan-balodi/leet-code/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/aryan-balodi/leet-code/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/aryan-balodi/leet-code/tree/master/0231-power-of-two) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aryan-balodi/leet-code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
