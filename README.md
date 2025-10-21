@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aryan-balodi/leet-code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aryan-balodi/leet-code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/aryan-balodi/leet-code/tree/master/1646-kth-missing-positive-number) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/aryan-balodi/leet-code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2047-find-a-peak-element-ii](https://github.com/aryan-balodi/leet-code/tree/master/2047-find-a-peak-element-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aryan-balodi/leet-code/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/aryan-balodi/leet-code/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/aryan-balodi/leet-code/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/aryan-balodi/leet-code/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/aryan-balodi/leet-code/tree/master/1137-height-checker) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/aryan-balodi/leet-code/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Math
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aryan-balodi/leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aryan-balodi/leet-code/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/aryan-balodi/leet-code/tree/master/0567-permutation-in-string) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/aryan-balodi/leet-code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aryan-balodi/leet-code/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aryan-balodi/leet-code/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sliding Window
