@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/aryan-balodi/leet-code/tree/master/0412-fizz-buzz) |
 | [1018-largest-perimeter-triangle](https://github.com/aryan-balodi/leet-code/tree/master/1018-largest-perimeter-triangle) |
 | [2032-largest-odd-number-in-string](https://github.com/aryan-balodi/leet-code/tree/master/2032-largest-odd-number-in-string) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/aryan-balodi/leet-code/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/aryan-balodi/leet-code/tree/master/3830-find-closest-person) |
 ## String
 |  |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aryan-balodi/leet-code/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/aryan-balodi/leet-code/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/aryan-balodi/leet-code/tree/master/0231-power-of-two) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/aryan-balodi/leet-code/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Memoization
 |  |
 | ------- |
