@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/aryan-balodi/leet-code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2047-find-a-peak-element-ii](https://github.com/aryan-balodi/leet-code/tree/master/2047-find-a-peak-element-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aryan-balodi/leet-code/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aryan-balodi/leet-code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/aryan-balodi/leet-code/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Binary Search
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/aryan-balodi/leet-code/tree/master/0412-fizz-buzz) |
 | [1018-largest-perimeter-triangle](https://github.com/aryan-balodi/leet-code/tree/master/1018-largest-perimeter-triangle) |
 | [2032-largest-odd-number-in-string](https://github.com/aryan-balodi/leet-code/tree/master/2032-largest-odd-number-in-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aryan-balodi/leet-code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/aryan-balodi/leet-code/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/aryan-balodi/leet-code/tree/master/3830-find-closest-person) |
 ## String
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/aryan-balodi/leet-code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aryan-balodi/leet-code/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aryan-balodi/leet-code/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aryan-balodi/leet-code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sliding Window
 |  |
 | ------- |
