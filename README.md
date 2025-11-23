@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/aryan-balodi/leet-code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aryan-balodi/leet-code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aryan-balodi/leet-code/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/aryan-balodi/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/aryan-balodi/leet-code/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/aryan-balodi/leet-code/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/aryan-balodi/leet-code/tree/master/0567-permutation-in-string) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/aryan-balodi/leet-code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/aryan-balodi/leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aryan-balodi/leet-code/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/aryan-balodi/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/aryan-balodi/leet-code/tree/master/0567-permutation-in-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aryan-balodi/leet-code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aryan-balodi/leet-code/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aryan-balodi/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aryan-balodi/leet-code/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aryan-balodi/leet-code/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Linked List
@@ -267,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aryan-balodi/leet-code/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/aryan-balodi/leet-code/tree/master/0148-sort-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aryan-balodi/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
