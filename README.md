@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/aryan-balodi/leet-code/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/aryan-balodi/leet-code/tree/master/0120-triangle) |
 | [0410-split-array-largest-sum](https://github.com/aryan-balodi/leet-code/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/aryan-balodi/leet-code/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/aryan-balodi/leet-code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aryan-balodi/leet-code/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/aryan-balodi/leet-code/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/aryan-balodi/leet-code/tree/master/0509-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/aryan-balodi/leet-code/tree/master/1018-largest-perimeter-triangle) |
 | [2032-largest-odd-number-in-string](https://github.com/aryan-balodi/leet-code/tree/master/2032-largest-odd-number-in-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aryan-balodi/leet-code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/aryan-balodi/leet-code/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/aryan-balodi/leet-code/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/aryan-balodi/leet-code/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/aryan-balodi/leet-code/tree/master/0509-fibonacci-number) |
 ## Counting Sort
 |  |
 | ------- |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aryan-balodi/leet-code/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/aryan-balodi/leet-code/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
